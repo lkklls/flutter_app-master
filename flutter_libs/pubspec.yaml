@@ -1,0 +1,24 @@
+name: flutter_libs
+description: A new Flutter package.
+version: 0.0.1
+author: 师春雷 <1558053958@qq.com>
+homepage: https://github.com/shichunlei/flutter_app/flutter_libs
+
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.4
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
